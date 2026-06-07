@@ -56,3 +56,9 @@ python CHATBOT.py
 ```
 
 If `OPENAI_API_KEY` is missing or the API call fails, the app uses the built-in electronics helper instead.
+
+
+<img width="1598" height="841" alt="image" src="https://github.com/user-attachments/assets/2fd3b57a-7fce-4d3c-a0f3-2431b723fd0e" />
+<img width="1886" height="913" alt="image" src="https://github.com/user-attachments/assets/cbf77960-23ad-449c-937b-b15db6933631" />
+
+
